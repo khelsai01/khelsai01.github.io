@@ -10,7 +10,7 @@ const Navbar = () => {
   const [isOpen, setIsOpen] = React.useState(false);
   const theme = useTheme()
   return (
-    <Nav>
+    <Nav id="nav-menu">
       <NavbarContainer>
         <NavLogo to='/'>
           <a style={{ display: "flex", alignItems: "center", color: "white", marginBottom: '20;', cursor: 'pointer' }}>
