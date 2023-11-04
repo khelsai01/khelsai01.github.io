@@ -369,9 +369,7 @@
 .about_img_container:hover::after {
     transform: translate(-7px, -7px);
 }
-#resume-button{
-    padding: 5px;
-}
+
 #resume-button-2 {
     border: 1px solid var(--first-color);
     border-radius: 4px;
