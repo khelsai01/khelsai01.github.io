@@ -47,6 +47,11 @@ document.getElementById("resume-link-1").onclick = () => {
     window.open("https://drive.google.com/file/d/1xq3aD19nNfxts4MNooyjRGNA3VSt6UfZ/view?usp=sharing");
 }
 
+document.getElementById("resume-link-2").onclick = () => {
+
+    window.open("https://drive.google.com/file/d/1xq3aD19nNfxts4MNooyjRGNA3VSt6UfZ/view?usp=sharing");
+}
+
 //! ================= Fixture =================
     window.addEventListener('load',()=>{
         // window.scrollTo(0, 0);
