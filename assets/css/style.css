@@ -99,7 +99,7 @@
     backdrop-filter: blur(10px);
 }
 
-#nav-link {
+.nav-link {
     color: var(--first-color);
     font-size: 1rem;
 }
