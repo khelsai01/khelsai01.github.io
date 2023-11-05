@@ -135,13 +135,13 @@
    
 }
 
-/* .navigation_box>ul {
+.navigation_box>ul {
     display: flex;
     list-style-type: none;
     align-items: center;
     margin-bottom: 0;
     margin-right: 10px;
-} */
+}
 
 .navigation_box>a {
     /* display: flex; */
