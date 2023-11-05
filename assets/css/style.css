@@ -369,7 +369,16 @@
 .about_img_container:hover::after {
     transform: translate(-7px, -7px);
 }
-
+#resume-button-1{
+    border: none;
+    padding: 5px;
+    color:var( --text);
+    font-family: var(--body-font);
+    background-color: var(--body-color);
+}
+#resume-button-1:hover{
+    color:var(--first-color);
+}
 #resume-button-2 {
     border: 1px solid var(--first-color);
     border-radius: 4px;
@@ -572,8 +581,6 @@
 }
 
 .skills-card {
-    /* padding: 5px; */
-    /* border: 2px solid var(--first-color); */
     border-radius: 15px;
     display: flex;
     flex-direction: column;
@@ -641,9 +648,6 @@
     object-fit: contain;
 }
 
-.github-carousel-window>div>img{
-
-} 
 
 .carousel-control-next-icon {
     background-image: url("https://icons.veryicon.com/png/o/miscellaneous/test-2/next-28.png");
@@ -828,14 +832,14 @@
 ::-webkit-scrollbar-thumb {
     background-color: rgba(27, 63, 131, 0.85);
     border-radius: .3rem;
-}
+
 
 /*! ================== Addons =============== */
 .project-description{
     flex-direction: column;
 }
 .project-description>p{
-    text-align: right;
+    text-align: left;
 }
 .project-description>p:last-child{
     color: var(--first-color);
@@ -854,18 +858,7 @@
     
 }
 /*! ================== Shining Animation =============== */
-/* .shine{
-    padding: 12px 40px;
-    color: #fff;
-    background: linear-gradient(to right,#4d4d4d 0, #fff 10%, #4d4d4d 20%);
-    background-position: 0;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    animation: shine 3s infinite linear forwards;
-    font-weight: 600;
-    font-size: 20px;
-    text-decoration: none;
-} */
+
 .shine{
     background: linear-gradient(to right,#0987d4 0, #000 30%, #0987d4 30%);
     background-position: 0;
@@ -904,4 +897,5 @@
     100%{
         background-position: 190px;
     }
+}
 }
