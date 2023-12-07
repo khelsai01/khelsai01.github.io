@@ -6,7 +6,7 @@ Hello, I'm Khelsai Rajwade, from Surajpur, Chhattisgarh specializing in the MERN
 Highly skilled full stack web developer adept at contributing to a highly collaborative work environment. Designed and developed web applications across multiple APIs, third-party integrations and databases.
 
 <h4>portfolio link </h4>
-<p>https://khelsai01.github.io"</p>
+<p>https://khelsai01.github.io</p>
 
 <h4>Github link </h4>
 <p>https://github.com/khelsai01</p> 
