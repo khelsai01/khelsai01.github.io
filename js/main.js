@@ -44,12 +44,12 @@ function transform_hamburger() {
 //! ============= resume button ==========
 document.getElementById("resume-link-1").onclick = () => {
 
-    window.open("https://drive.google.com/file/d/1xq3aD19nNfxts4MNooyjRGNA3VSt6UfZ/view?usp=sharing");
+    window.open("https://drive.google.com/file/d/1eD-UVOIMtDXeiHj3Wa8OD4WxItTkq8uP/view?usp=sharing");
 }
 
 document.getElementById("resume-link-2").onclick = () => {
 
-    window.open("https://drive.google.com/file/d/1xq3aD19nNfxts4MNooyjRGNA3VSt6UfZ/view?usp=sharing");
+    window.open("https://drive.google.com/file/d/1eD-UVOIMtDXeiHj3Wa8OD4WxItTkq8uP/view?usp=sharing");
 }
 
 //! ================= Fixture =================
